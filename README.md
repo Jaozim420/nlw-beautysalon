@@ -1,11 +1,11 @@
 # beautysalon
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+⚙️ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
 - JavaScript
 
-Bibliotecas
+📚 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - [SwipeJS](https://github.com/nolimits4web/Swiper)
